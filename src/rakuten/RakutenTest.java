@@ -8,8 +8,6 @@ import java.util.stream.Collectors;
 
 /**
  * 																									
-	Please send your answer code TO: roy.lim@rakuten.com																								
-																									
 																									
 	Q: Please write answer code using your preferable language(e.g. Java / Python / Javascript). Expect candidate to be resolved within 10 lines and 2 hours.																								
 																									
